@@ -1,0 +1,11 @@
+	value	Flag
+Class_Name	fastqc	False
+Start_Time	2020-09-21 16:19:49	False
+End_Time	2020-09-21 16:21:19	False
+Input_Files	dict_values([['/home/zhangwei/pipeline-WGBS-comp/raw/case_large/case1_1.fq', '/home/zhangwei/pipeline-WGBS-comp/raw/case_large/case2_1.fq', '/home/zhangwei/pipeline-WGBS-comp/raw/case_large/case3_1.fq', '/home/zhangwei/pipeline-WGBS-comp/raw/case_large/case4_1.fq', '/home/zhangwei/pipeline-WGBS-comp/raw/case_large/case1_2.fq', '/home/zhangwei/pipeline-WGBS-comp/raw/case_large/case2_2.fq', '/home/zhangwei/pipeline-WGBS-comp/raw/case_large/case3_2.fq', '/home/zhangwei/pipeline-WGBS-comp/raw/case_large/case4_2.fq']])	False
+Output_Files	dict_values(['/home/zhangwei/pipeline-WGBS-comp/cancer/intermediate_result/step_02_fastqc'])	False
+Log_Files	/home/zhangwei/pipeline-WGBS-comp/cancer/intermediate_result/step_02_fastqc/fastqc.3aec9d94.log	False
+Record_Files	/home/zhangwei/pipeline-WGBS-comp/cancer/intermediate_result/step_02_fastqc/fastqc.3aec9d94-record.txt	False
+Fi_Flag	None	True
+cmd_c5d88c66b63865436c95312d8d94fc07	fastqc --outdir /home/zhangwei/pipeline-WGBS-comp/cancer/intermediate_result/step_02_fastqc --threads 120  /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case1_1.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case2_1.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case3_1.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case4_1.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case1_2.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case2_2.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case3_2.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case4_2.fq	True
+CMD_No.c5d88c66b63865436c95312d8d94fc07	fastqc --outdir /home/zhangwei/pipeline-WGBS-comp/cancer/intermediate_result/step_02_fastqc --threads 120  /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case1_1.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case2_1.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case3_1.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case4_1.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case1_2.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case2_2.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case3_2.fq /home/zhangwei/pipeline-WGBS-comp/raw/case_large/case4_2.fq	True
